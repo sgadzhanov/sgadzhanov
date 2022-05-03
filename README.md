@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stoyan Gadzhanov...
 - 👀 I’m interested in software development...
-- 🌱 I’m currently learning Spring Boot, Html, CSS, JavaScript
+- 🌱 I’m currently learning Spring Boot, HTML, CSS, JavaScript
 - 📫 How to reach me: 
 - -- email - stoyan.gadzhanov@gmail.com 
 - -- linkedin - linkedin.com/in/stoyan-gadzhanov-b62035238
