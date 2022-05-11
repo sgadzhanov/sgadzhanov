@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot, HTML, CSS, JavaScript
 - 📫 How to reach me: 
 - -- email - stoyan.gadzhanov@gmail.com 
-- -- linkedin - linkedin.com/in/stoyan-gadzhanov-b62035238
+- -- linkedin - http://linkedin.com/in/stoyan-gadzhanov-b62035238
 
 <!---
 sgadzhanov/sgadzhanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
