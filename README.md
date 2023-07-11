@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stoyan Gadzhanov...
 - 👀 I’m interested in software development...
-- 🌱 I’m currently learning and working with NodeJS and React.
+- 🌱 I’m currently learning and working with ReactJS and NodeJS.
 - 🤯 Already have experience (professional) with Java and Spring Boot. 
 - 📫 How to reach me: 
 - -- email - stoyan.gadzhanov@gmail.com 
